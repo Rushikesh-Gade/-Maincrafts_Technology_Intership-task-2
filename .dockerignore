@@ -1,0 +1,6 @@
+.git
+.gitignore
+README.md
+temp-task1
+*.json
+assets/
